@@ -22,9 +22,10 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img height="195" src="https://github-readme-stats.shion.dev/api?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+<img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
 <br/>
-![](https://streak-stats.demolab.com/?user=tanvirul-islam-rifat&theme=dark&hide_border=false)
+<img height="195" src="https://streak-stats.demolab.com/?user=tanvirul-islam-rifat&theme=dark&hide_border=false">
 
 </div>
 
@@ -34,3 +35,5 @@
 [![](https://komarev.com/ghpvc/?username=tanvirul-islam-rifat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
