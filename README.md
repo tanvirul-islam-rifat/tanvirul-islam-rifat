@@ -3,7 +3,7 @@
 </h1>
 
 
-🏛️ CS graduate from BRAC University<br>🌱 Learning day by day..
+🏛️ CS graduate from BRAC University<br>🌱 Learning everyday..
 
 
 <div align="center">
