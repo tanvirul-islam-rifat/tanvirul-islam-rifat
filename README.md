@@ -3,7 +3,7 @@
 </h1>
 
 
-🏛️ CS graduate from BRAC University<br>🌱 Learning day by day
+🏛️ CS graduate from BRAC University<br>🌱 Learning day by day..
 
 <div align="center">
   <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
