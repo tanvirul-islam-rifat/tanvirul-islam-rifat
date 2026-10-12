@@ -5,6 +5,15 @@
 
 🏛️ CS graduate from BRAC University<br>🌱 Learning day by day..
 
+
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvirul-islam-rifat/tanvirul-islam-rifat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvirul-islam-rifat/tanvirul-islam-rifat/output/github-snake.svg" />
+  <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/tanvirul-islam-rifat/tanvirul-islam-rifat/output/github-snake.svg" />
+ </picture>
+</div>
+
 <div align="center">
   <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
