@@ -22,9 +22,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://streak-stats.demolab.com/?user=tanvirul-islam-rifat&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tanvirul-islam-rifat&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=tanvirul-islam-rifat&theme=dark&hide_border=false)
 
 </div>
 
