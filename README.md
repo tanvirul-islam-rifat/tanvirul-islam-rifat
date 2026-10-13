@@ -5,6 +5,7 @@
 
 🏛️ CS graduate from BRAC University<br>🌱 Learning everyday..
 
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=1"> <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1"> <img src="assets/banner-dark.svg?v=1" width="100%" alt="profile.sh --live"> </picture>
 
 <div align="center">
  <picture>
