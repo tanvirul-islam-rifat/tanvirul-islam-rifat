@@ -6,7 +6,6 @@
 🏛️ CS graduate from BRAC University<br>🌱 Learning everyday..
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=1"> <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1"> <img src="assets/banner-dark.svg?v=1" width="100%" alt="profile.sh --live"> </picture>
-
 <div align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvirul-islam-rifat/tanvirul-islam-rifat/output/github-snake-dark.svg" />
@@ -14,11 +13,10 @@
   <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/tanvirul-islam-rifat/tanvirul-islam-rifat/output/github-snake.svg" />
  </picture>
 </div>
-
 ## 🌐 Socials:
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/747166496806928454) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirulislamrifat001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirul-islam-rifat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislamrifat0010@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/747166496806928454) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirulislamrifat001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirul-islam-rifat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislamrifat0010@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/mdtanvirulislamrifat)
 
 </div>
 
