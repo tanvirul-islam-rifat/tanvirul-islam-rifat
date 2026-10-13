@@ -13,6 +13,7 @@
   <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/tanvirul-islam-rifat/tanvirul-islam-rifat/output/github-snake.svg" />
  </picture>
 </div>
+
 ## 🌐 Socials:
 <div align="center">
 
