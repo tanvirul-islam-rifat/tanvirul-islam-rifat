@@ -1,0 +1,26 @@
+{
+  "window_title": "profile.sh --live",
+  "map_label": "VISUAL.MAP",
+  "info_label": "SYSTEM.INFO",
+  "handle": "@tanvirul-islam-rifat",
+  "status_left": "ALL SYSTEMS NOMINAL",
+  "status_right": "EDIT ME · MY NODE",
+  "photo_crop": { "zoom": 1.0, "x": 0.5, "y": 0.4 },
+  "rows": [
+    ["Subject", "Tanvirul Islam Rifat"],
+    ["Role", "Your role · Your title"],
+    ["Origin", "Your country"],
+    ["Education", "Your school · Your field"],
+    ["Status", "Building + Learning + Shipping"],
+    ["ToolChain", "VS Code · Git · Terminal"],
+    ["Core.Lang", "Python · JavaScript · C++"],
+    ["Core.Frontend", "React · Tailwind"],
+    ["Core.Backend", "Node · Django"],
+    ["Core.Database", "Postgres · MongoDB"],
+    ["Core.Infra", "Vercel · Docker"],
+    ["Grid.Mail", "you@example.com"],
+    ["Grid.LinkedIn", "/in/your-handle"],
+    ["Grid.GitHub", "tanvirul-islam-rifat"],
+    ["Grid.X", "@your_handle"]
+  ]
+}
