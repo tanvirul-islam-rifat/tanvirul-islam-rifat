@@ -110,7 +110,11 @@ def portrait_dots(img: Image.Image, theme: str) -> np.ndarray:
         mask = None
         if has_alpha:
             mask = Image.fromarray(np.uint8((alpha > 0.08) * 255), "L")
-        prepared = ImageOps.equalize(prepared, mask=mask)
+        # Stretch the range without flooding the highlights, then apply a gamma
+        # curve so midtones dither into sparse dots and features stay visible.
+        prepared = ImageOps.autocontrast(prepared, cutoff=1, mask=mask)
+        curved = (np.asarray(prepared, dtype=np.float32) / 255.0) ** 1.6
+        prepared = Image.fromarray(np.uint8(np.clip(curved * 255, 0, 255)), "L")
     else:
         white = Image.new("RGBA", img.size, "white")
         white.alpha_composite(img)
