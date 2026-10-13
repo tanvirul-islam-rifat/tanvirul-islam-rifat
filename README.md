@@ -41,6 +41,6 @@
 ---
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=tanvirul-islam-rifat&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=emmi-lili&style=flat&color=aa9bef&label=profile+views" alt="profile views">
 
 </div>
