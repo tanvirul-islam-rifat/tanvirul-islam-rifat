@@ -5,7 +5,14 @@
   "handle": "@tanvirul-islam-rifat",
   "status_left": "ALL SYSTEMS NOMINAL",
   "status_right": "EDIT ME · MY NODE",
-  "photo_crop": { "zoom": 1.0, "x": 0.5, "y": 0.4 },
+
+  "photos": [
+    { "file": "photo1.png", "zoom": 1.1, "x": 0.5, "y": 1.0 },
+    { "file": "photo2.png", "zoom": 1.5, "x": 0.5, "y": 0.5 }
+  ],
+  "signs": ["code", "window", "signature.png"],
+  "animation": { "hold": 2.2, "move": 1.3, "dots": 1500 },
+
   "rows": [
     ["Subject", "Tanvirul Islam Rifat"],
     ["Role", "BSc Graduate | MSc Student "],
