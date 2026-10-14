@@ -41,6 +41,6 @@
 ---
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tanvirul-islam-rifat&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+   <img src="https://hits.sh/github.com/tanvirul-islam-rifat.svg?style=flat&label=profile%20views&color=aa9bef" alt="profile views">
 
 </div>
